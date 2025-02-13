@@ -8,17 +8,21 @@ body {
     letter-spacing: 0.02em;
 }
 
-.header-logo span {
-    color: #4D5AE5;
-}
-
-.header-logo {
+.logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.15;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+
+.logo span {
+    color: #4D5AE5;
+}
+
+.header-logo {
+    color: #2E2F42;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -71,4 +75,16 @@ body {
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.02em;
+}
+
+.footer-content {
+    background-color: #2E2F42;
+}
+
+.footer-logo {
+    color: #F4F4FD;
+}
+
+.footer-text {
+    color: #F4F4FD;
 }
