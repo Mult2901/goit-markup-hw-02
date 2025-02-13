@@ -36,3 +36,20 @@ body {
 .contacts-list .link:focus {
     color: #404BBF;
 }
+
+.title-section {
+    background-color: #2E2F42;
+}
+
+.title {
+    color: #FFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.05;
+    letter-spacing: 0.02em;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    color: #FFF;
+}
