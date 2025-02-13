@@ -60,3 +60,14 @@ body {
     font-size: 20px;
     letter-spacing: 0.02em;
 }
+
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.subtitle {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+}
