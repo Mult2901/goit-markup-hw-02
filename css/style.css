@@ -53,3 +53,10 @@ body {
     background-color: #4D5AE5;
     color: #FFF;
 }
+
+.caption {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
