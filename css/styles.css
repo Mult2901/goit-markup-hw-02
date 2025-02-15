@@ -8,6 +8,11 @@ body {
     letter-spacing: 0.02em;
 }
 
+a {
+    text-decoration: none;
+    color: inherit
+}
+
 .logo {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
@@ -34,6 +39,10 @@ body {
 .nav-list .link:hover,
 .nav-list .link:focus {
     color: #404BBF;
+}
+
+.address-contacts {
+    font-style: normal;
 }
 
 .contacts-list .link:hover,
